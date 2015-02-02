@@ -1,0 +1,28 @@
+{
+  "name": "passport-tesla",
+  "version": "1.0.0",
+  "description": "Tesla Model S authentication strategy for Passport",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/octoblu/passport-tesla.git"
+  },
+  "keywords": [
+    "passport",
+    "tesla",
+    "cars",
+    "tesla model S"
+  ],
+  "author": "Octoblu Inc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/octoblu/passport-tesla/issues"
+  },
+  "homepage": "https://github.com/octoblu/passport-tesla",
+  "dependencies": {
+    "passport-oauth2": "^1.1.2"
+  }
+}
